@@ -1,0 +1,6 @@
+C:\Users\rosas\Downloads\Proyectos\Proyectos\Compartidos\LibreriaMetodosTask\bin\Debug\LibreriaMetodosTask.dll
+C:\Users\rosas\Downloads\Proyectos\Proyectos\Compartidos\LibreriaMetodosTask\bin\Debug\LibreriaMetodosTask.pdb
+C:\Users\rosas\Downloads\Proyectos\Proyectos\Compartidos\LibreriaMetodosTask\obj\Debug\LibreriaMetodosTask.csproj.AssemblyReference.cache
+C:\Users\rosas\Downloads\Proyectos\Proyectos\Compartidos\LibreriaMetodosTask\obj\Debug\LibreriaMetodosTask.csproj.CoreCompileInputs.cache
+C:\Users\rosas\Downloads\Proyectos\Proyectos\Compartidos\LibreriaMetodosTask\obj\Debug\LibreriaMetodosTask.dll
+C:\Users\rosas\Downloads\Proyectos\Proyectos\Compartidos\LibreriaMetodosTask\obj\Debug\LibreriaMetodosTask.pdb
