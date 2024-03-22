@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaMetodosTask", "LibreriaMetodosTask.csproj", "{F66A5B99-B6A4-4941-A751-5E43DDD9B3EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F66A5B99-B6A4-4941-A751-5E43DDD9B3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66A5B99-B6A4-4941-A751-5E43DDD9B3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F66A5B99-B6A4-4941-A751-5E43DDD9B3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F66A5B99-B6A4-4941-A751-5E43DDD9B3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9F04169-8BC3-48CE-AAE0-F234F28E1EE0}
+	EndGlobalSection
+EndGlobal
